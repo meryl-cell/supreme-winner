@@ -1,1 +1,7 @@
-git clone https//github.com/mlg404/whatsapp-music-bot.git
+#PROJECT MUSIC BOT
+#HELPING PEOPLE WITH THEIR PROJECTS
+
+#TABLE OF CONTENTS
+[INSTALLATION]
+[USAGE]
+[FEATURES]
